@@ -1,4 +1,4 @@
-Applied Econometrics 4110 22WQ -- Analysis of the Impact of the College Scorecards Publication
+#Applied Econometrics 4110 22WQ -- Analysis of the Impact of the College Scorecards Publication
 
 Seattle University - Applied Econometrics 4110 22WQ - Data Exploration Assignment
 
