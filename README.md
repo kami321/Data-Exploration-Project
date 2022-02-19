@@ -14,7 +14,7 @@ Regarding this project, we will analyze four datasets (Datasets: trends_up_to_..
 
 The College Scorecard isn’t just data for us - it’s also treatment! The College Scorecard is a public-facing website that contains important information about colleges, including how much its graduates earn. This information has traditionally been very difficult to find.
 
-## RESEARCH QUESTION:
+###### RESEARCH QUESTION:
 
 The College Scorecard was released at the start of September 2015. Among colleges that predominantly grant bachelor’s degrees, did the release of the Scorecard shift student interest to high-earnings colleges relative to low-earnings ones (as proxied by Google searches for keywords associated with those colleges)?
 
