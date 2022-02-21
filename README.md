@@ -30,14 +30,16 @@ The major regression Model1 that will be investigated in order to address this r
 ![hypothesis test](https://user-images.githubusercontent.com/81647911/154918604-814dbd45-6a02-4475-9e25-38f36c4b854d.png)
 
 ### Summary Statistics for comprehensive index and time
-![Statistics summary](https://user-images.githubusercontent.com/81647911/154918861-3800e128-225c-41bd-99b3-d3801d77a1a4.png)
+![Statistics summary](https://user-images.githubusercontent.com/81647911/154919688-efaff2e6-b5e5-4c31-8081-95674b1c906b.png)
 
 ### Correlation between College_Scorecard, high_earning, time_v
-![Correlation](https://user-images.githubusercontent.com/81647911/154918940-49cda5ee-2688-466e-8c1a-d4160eb09506.png)
+![Correlation](https://user-images.githubusercontent.com/81647911/154919752-93e82fb8-243e-4896-9f86-db82861c370b.png)
+
+### Histogram plots for index tot
+![histogram 11](https://user-images.githubusercontent.com/81647911/154920161-dd5436dd-eaa1-4546-9905-fd20f8ac5037.png)
 
 ### Regression results: differences between high-earning and low-earning college graduates
 ![Regression](https://user-images.githubusercontent.com/81647911/154919133-93e15b56-f4a7-456f-85b3-0140314da415.png)
-
 
 ## Conclusion
 
