@@ -24,9 +24,6 @@ The major regression Model1 that will be investigated in order to address this r
 
 <img width="561" alt="Model" src="https://user-images.githubusercontent.com/81647911/155011695-b0c8737f-527a-4d78-8957-c09551768ef9.png">
 
-### Hypothesis test: if the effect of College_Scorecard on index scores is 0
-<img width="683" alt="hypothesis" src="https://user-images.githubusercontent.com/81647911/155011787-032b48c9-eaf9-4189-9f33-140656109cab.png">
-
 ### Correlation between College_Scorecard, high_earning, time_v
 <img width="497" alt="Correlation" src="https://user-images.githubusercontent.com/81647911/155011812-a773d11c-2024-4c5b-b9aa-fc69aa31228f.png">
 
