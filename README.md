@@ -24,22 +24,22 @@ The major regression Model1 that will be investigated in order to address this r
 
 ### Model 1
 
-![Model](https://user-images.githubusercontent.com/81647911/154918398-9673e550-2c6f-4f0f-9998-30b3c5e3b2cb.png)
+<img width="561" alt="Model" src="https://user-images.githubusercontent.com/81647911/155011695-b0c8737f-527a-4d78-8957-c09551768ef9.png">
 
 ### Hypothesis test: if the effect of College_Scorecard on index scores is 0
-![hypothesis test](https://user-images.githubusercontent.com/81647911/154918604-814dbd45-6a02-4475-9e25-38f36c4b854d.png)
+<img width="683" alt="hypothesis" src="https://user-images.githubusercontent.com/81647911/155011787-032b48c9-eaf9-4189-9f33-140656109cab.png">
 
 ### Summary Statistics for comprehensive index and time
-![Statistics summary](https://user-images.githubusercontent.com/81647911/154919688-efaff2e6-b5e5-4c31-8081-95674b1c906b.png)
+<img width="295" alt="Statistics summary" src="https://user-images.githubusercontent.com/81647911/155011854-de5fe64f-c156-4458-95e8-94ab27eec052.png">
 
 ### Correlation between College_Scorecard, high_earning, time_v
-![Correlation](https://user-images.githubusercontent.com/81647911/154919752-93e82fb8-243e-4896-9f86-db82861c370b.png)
+<img width="497" alt="Correlation" src="https://user-images.githubusercontent.com/81647911/155011812-a773d11c-2024-4c5b-b9aa-fc69aa31228f.png">
 
-### Histogram plots for My Cleaned Data and index tot
-![histogram 11](https://user-images.githubusercontent.com/81647911/154920161-dd5436dd-eaa1-4546-9905-fd20f8ac5037.png)
+### Histogram plots for My Cleaned Data and College Scorecards
+<img width="674" alt="histogram" src="https://user-images.githubusercontent.com/81647911/155011914-65d6c431-5e93-45ef-9fc0-2f389d9987e9.png">
 
 ### Regression results: differences between high-earning and low-earning college graduates
-![Regression](https://user-images.githubusercontent.com/81647911/154919133-93e15b56-f4a7-456f-85b3-0140314da415.png)
+<img width="670" alt="Regression" src="https://user-images.githubusercontent.com/81647911/155012026-f459960c-868c-4789-9d98-c06c4d783b1c.png">
 
 ## Conclusion
 
