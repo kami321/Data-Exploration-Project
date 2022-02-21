@@ -26,6 +26,9 @@ The major regression Model1 that will be investigated in order to address this r
 
 ![Model](https://user-images.githubusercontent.com/81647911/154918398-9673e550-2c6f-4f0f-9998-30b3c5e3b2cb.png)
 
+# Hypothesis test: if the effect of College_Scorecard on index scores is 0
+![hypothesis test](https://user-images.githubusercontent.com/81647911/154918604-814dbd45-6a02-4475-9e25-38f36c4b854d.png)
+
 
 
 
