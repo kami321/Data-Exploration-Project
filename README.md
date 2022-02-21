@@ -35,7 +35,7 @@ The major regression Model1 that will be investigated in order to address this r
 ### Correlation between College_Scorecard, high_earning, time_v
 ![Correlation](https://user-images.githubusercontent.com/81647911/154919752-93e82fb8-243e-4896-9f86-db82861c370b.png)
 
-### Histogram plots for index tot
+### Histogram plots for My Cleaned Data and index tot
 ![histogram 11](https://user-images.githubusercontent.com/81647911/154920161-dd5436dd-eaa1-4546-9905-fd20f8ac5037.png)
 
 ### Regression results: differences between high-earning and low-earning college graduates
