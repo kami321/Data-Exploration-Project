@@ -22,14 +22,21 @@ The College Scorecard was released at the start of September 2015. Among college
 
 The major regression Model1 that will be investigated in order to address this research question examines the effect of the College Scorecard's public publication on public interest in high-earning organizations vs low-earning organizations, as well as assessed by Google searches for college-related keywords. To begin with, it returns the influence of high-income colleges relative to low-income colleges based on Google searches for keywords related to these colleges, and the interactive influence is based on the relationship between the publication of college scorecard and how students' interest in high-income colleges compares to low-income colleges, so the model includes the interaction between college scorecard and high-income colleges. Second, because the effects of college scorecard is dependent on the level of time variables, the model includes the interaction between time and college scorecard variables. These variables are interdependent and must be included in the model.
 
-#### Model 1
+### Model 1
 
 ![Model](https://user-images.githubusercontent.com/81647911/154918398-9673e550-2c6f-4f0f-9998-30b3c5e3b2cb.png)
 
-#### Hypothesis test: if the effect of College_Scorecard on index scores is 0
+### Hypothesis test: if the effect of College_Scorecard on index scores is 0
 ![hypothesis test](https://user-images.githubusercontent.com/81647911/154918604-814dbd45-6a02-4475-9e25-38f36c4b854d.png)
 
+### Summary Statistics for comprehensive index and time
+![Statistics summary](https://user-images.githubusercontent.com/81647911/154918861-3800e128-225c-41bd-99b3-d3801d77a1a4.png)
 
+### Correlation between College_Scorecard, high_earning, time_v
+![Correlation](https://user-images.githubusercontent.com/81647911/154918940-49cda5ee-2688-466e-8c1a-d4160eb09506.png)
+
+### Regression results: differences between high-earning and low-earning college graduates
+![Regression](https://user-images.githubusercontent.com/81647911/154919133-93e15b56-f4a7-456f-85b3-0140314da415.png)
 
 
 ## Conclusion
