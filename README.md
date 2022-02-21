@@ -27,9 +27,6 @@ The major regression Model1 that will be investigated in order to address this r
 ### Hypothesis test: if the effect of College_Scorecard on index scores is 0
 <img width="683" alt="hypothesis" src="https://user-images.githubusercontent.com/81647911/155011787-032b48c9-eaf9-4189-9f33-140656109cab.png">
 
-### Summary Statistics for comprehensive index and time
-<img width="295" alt="Statistics summary" src="https://user-images.githubusercontent.com/81647911/155011854-de5fe64f-c156-4458-95e8-94ab27eec052.png">
-
 ### Correlation between College_Scorecard, high_earning, time_v
 <img width="497" alt="Correlation" src="https://user-images.githubusercontent.com/81647911/155011812-a773d11c-2024-4c5b-b9aa-fc69aa31228f.png">
 
