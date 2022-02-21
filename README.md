@@ -24,7 +24,7 @@ The major regression Model1 that will be investigated in order to address this r
 
 # Model 1
 
-(Model.png)
+![Model](https://user-images.githubusercontent.com/81647911/154918398-9673e550-2c6f-4f0f-9998-30b3c5e3b2cb.png)
 
 
 
