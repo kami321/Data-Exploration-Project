@@ -43,14 +43,6 @@ The major regression Model1 that will be investigated in order to address this r
 
 ## Conclusion
 
+The effect between high-earning college graduates and low-earning college graduates after graduation on the comprehensive Google Trend Index was a very tiny, but statistically significant positive effect of 0.011. A one-month deferral reduces the comprehensive Google Trend Index by 0.123. The cumulative effect of the College Scorecard and a one-month increase in time greater the comprehensive Google Index by 0.160 points more than if the College Scorecard had not been issued and time had increased by one month. Finally, the College Scorecard has caused a 0.041 drop in the complete Google Trend index for high-earning colleges compared to low-earning colleges since its publication. The publication of the College Scorecard for low-income groups resulted in an average Google Trends index of -0.479.
 
-
-
-
-
-
-
-
-
-
-
+For the summary statistics, the standard deviation for index tot in the data set is 0.5791552. Then I looked up the correlation between my model's independent variables and found a significant positive correlation coefficient of 0.6692468359 between Time and CollegeScorecard, indicating that the interaction term in my model is legitimate. At the same time, I also run a histogram for the variables used in regression analysis, in order to determine their distribution in the data set. One thing that caught my attention was the timeline of this data set (2013-2016), the variable College Scorecard was imbalanced, and the data before the publication of the College Scorecard were oversampled in the data set.
