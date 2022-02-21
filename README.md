@@ -1,6 +1,6 @@
-# Analysis of the Impact of the College Scorecards Publication
+# Applied Econometrics 4110 22WQ - Data Exploration Assignment
 
-Seattle University - Applied Econometrics 4110 22WQ - Data Exploration Assignment
+Analysis of the Impact of the College Scorecards Publication
 
 Author: Yinhui(Kami) Yang
 
