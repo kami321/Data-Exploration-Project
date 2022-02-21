@@ -24,7 +24,7 @@ The major regression Model1 that will be investigated in order to address this r
 
 # Model 1
 
-![Happy Christmas](Christmas.png)
+![Result Image](Model.png)
 
 
 
