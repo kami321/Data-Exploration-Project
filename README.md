@@ -1,4 +1,4 @@
-# Applied Econometrics 4110 22WQ - Data Exploration Assignment
+# ECON 4110 22WQ - Data Exploration Assignment
 
 Author: Yinhui(Kami) Yang
 
