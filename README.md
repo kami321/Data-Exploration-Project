@@ -1,4 +1,4 @@
-# ECON 4110 22WQ - Data Exploration Assignment
+# Data Exploration Assignment
 
 Author: Yinhui(Kami) Yang
 
