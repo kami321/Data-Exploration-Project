@@ -1,6 +1,6 @@
 # Data Exploration Assignment
 
-Author: Yinhui(Kami) Yang
+Author: Yinhui Yang(Kami)
 
 ## Introduction of the Data
 
